@@ -1,0 +1,7 @@
+
+<input placeholder="输入all删除所有数据" value="{{inputValue}}"bindinput="input1"class="input"></input>
+<button bindtap="clear">清空云数据库</button>
+<input placeholder="输入分组" value="{{df1}}"bindinput="df"class="input"></input>
+<button bindtap="tishi" >加入分组</button>
+<button bindtap="saveDataToServer">清空弹幕</button>
+  
